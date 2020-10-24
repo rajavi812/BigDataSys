@@ -4,7 +4,7 @@ It consists of all the tasks that were given in the assignment
 
 Task 1 - It was to review and draw the diagram for Moody's Analytics working
 
-Task 2 - it was data ingestion,ie, transfering data from DynamoDB and staging it on to S3
+Task 2 - it was data ingestion,ie, transfering data from DynamoDB and staging it on to S3 using lambda function
 
 Task 3 - Build an API using FastAPI that can be used to query different aspects of dataset
 
